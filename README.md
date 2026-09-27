@@ -8,7 +8,7 @@
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ Some Experience In
 
 
 <p align="center">
