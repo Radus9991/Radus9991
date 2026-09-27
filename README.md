@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi I'm Radek 👋
+
+🎓 Student passionate about software development.
+
+💻 Currently doing an internship in Software Development.
+
+🌱 I'm continuously learning, improving my coding skills and working on personal projects.
+
+
+
+## 🛠️ Tech Stack
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,react,angular,dotnet,postgres,mongodb,prisma,docker,git,github,postman,vscode,idea,webstorm" />
+</p>
+
+
+
+
 
 <!--
 **Radus9991/Radus9991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
