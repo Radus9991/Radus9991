@@ -8,7 +8,7 @@
 
 
 
-## 🛠️ Some Experience In
+## 🛠️ Some experience in
 
 
 <p align="center">
