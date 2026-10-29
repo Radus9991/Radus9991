@@ -11,10 +11,23 @@
 ## 🛠️ Some experience in
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,react,angular,dotnet,postgres,mongodb,prisma,docker,git,github,postman,vscode,idea,webstorm" />
+💻 Languages & Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,react,angular" />
 </p>
 
+⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres,mongodb,prisma,datagrip" />
+</p>
+
+🛠️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea,webstorm" />
+</p>
 
 
 
