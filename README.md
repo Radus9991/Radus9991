@@ -20,13 +20,13 @@
 ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,postgres,mongodb,prisma,datagrip" />
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres,mongodb,prisma,rider" />
 </p>
 
 🛠️ Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea,webstorm" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea,webstorm,claude" />
 </p>
 
 
